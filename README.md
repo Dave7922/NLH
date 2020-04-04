@@ -1,7 +1,7 @@
 # NLH: A Blind Pixel-level Non-local Method for Real-world Image Denoising
 * This repository is for NLH introduced in the following paper
 
-* Yingkun Hou, Jun Xu, Mingxia Liu, Guanghai Liu, Li Liu, Fan Zhu, and Ling Shao, "NLH: A Blind Pixel-level Non-local 
+## Yingkun Hou, Jun Xu, Mingxia Liu, Guanghai Liu, Li Liu, Fan Zhu, and Ling Shao, "NLH: A Blind Pixel-level Non-local 
 Method for Real-world Image Denoising", IEEE Transactions on Image Processing, vol. 29, pp. 5121-5135, 2020.
 
 * The code is built on Matlab 2018a.
@@ -12,3 +12,4 @@ Method for Real-world Image Denoising", IEEE Transactions on Image Processing, v
 denoising. In CVPR, pages 1683–1691, 2016."
 
 * The folder `NLH_DND` only includes denoising codes for DND dataset, the dataset can be download from the following website:     https://noise.visinf.tu-darmstadt.de/. The related information refers to "T.  Plo¨tz  and  S.  Roth.   Bench                                 algorithms  with  real photographs.  In CVPR, 2017."
+ 
