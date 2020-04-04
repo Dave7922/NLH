@@ -5,7 +5,7 @@
 
 * The code is built on Matlab 2018a.
 
-* The folder #### `NLH_AWGN_Gray` includes gray scale images Additive Gaussian White Noise denosing codes and some gray scale images.
+* The folder `NLH_AWGN_Gray` includes gray scale images Additive Gaussian White Noise denosing codes and some gray scale images.
 
 * The folder `NLH_CC` includes CC dataset and denoising codes. The related information refers to "S. Nam, Y. Hwang, Y.  Matsushita, and S. J. Kim. A holistic approach to cross-channel image noise modeling and its application to image
 denoising. In CVPR, pages 1683–1691, 2016."
