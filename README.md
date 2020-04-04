@@ -1,7 +1,7 @@
 # NLH: A Blind Pixel-level Non-local Method for Real-world Image Denoising
 * This repository is for NLH introduced in the following paper
 
-### Yingkun Hou, Jun Xu, Mingxia Liu, Guanghai Liu, Li Liu, Fan Zhu, and Ling Shao, "NLH: A Blind Pixel-level Non-local### method for Real-world Image Denoising", IEEE Transactions on Image Processing, vol. 29, pp. 5121-5135, 2020.
+### Yingkun Hou, Jun Xu, Mingxia Liu, Guanghai Liu, Li Liu, Fan Zhu, and Ling Shao, "NLH: A Blind Pixel-level Non-local method for Real-world Image Denoising", IEEE Transactions on Image Processing, vol. 29, pp. 5121-5135, 2020.
 
 * The code is built on Matlab 2018a.
 
