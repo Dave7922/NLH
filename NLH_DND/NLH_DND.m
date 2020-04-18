@@ -230,7 +230,7 @@ else
 end
 
 
-gamma = 5.0 + iter + 10.0*sigma_est1/sigma_est_b;
+gamma = 5.0 + iter + 10.0*sigma_est1/(sigma_est_b+0.00000001);
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % tic,
